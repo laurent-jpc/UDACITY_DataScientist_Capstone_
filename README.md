@@ -204,8 +204,7 @@ In comparison with previous version, this new version brings following
 INSTRUCTIONS:
 
 - Create local folder as workspace for this programme;
-- Load the csv data sheet files into this workspace;
-- Unzip "COVID-19_France_data_vaccin_population"
+- load and unzip csv data sheet files into this workspace
 - Load the Notebook script  file into this workspace;
 - Install the required librairies: pip install -r requirements.txt;
 - When needed, open the notebook "COVID19_France_workunit.ipynb" in a python
